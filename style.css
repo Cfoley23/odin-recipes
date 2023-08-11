@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+
+a:link,
+a:visited {
+    color:antiquewhite;
+}
+
+body {
+    font-family:'Ubuntu';
+    color:antiquewhite;
+}
+.title {
+    text-align: center;
+    font-size: 48px;;
+}
+
+.odin {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    max-width: 300px;
+}
+
+.intro {
+    text-align: center
+}
+
+body {
+    background-color: rgb(66, 65, 60);
+}
+
+p {
+    font-size:20px;
+}
